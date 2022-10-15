@@ -1,1 +1,1 @@
-Writing a script that prints to another file
+created a script that compiles but does not link
