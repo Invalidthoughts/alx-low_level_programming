@@ -1,1 +1,1 @@
-wrote a script that generates the assembly of a C code
+write script that prints out sizes
