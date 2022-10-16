@@ -1,1 +1,1 @@
-created a script that compiles a C file and creates an executable
+wrote a programme that prints using puts
