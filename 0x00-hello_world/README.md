@@ -1,1 +1,1 @@
-created a script that generates the assembly code of a C code and saves it in an output file
+created a script that compiles a C file and creates an executable
