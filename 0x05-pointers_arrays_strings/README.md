@@ -1,1 +1,1 @@
-0x05 pointers arrays and strings
+doing 0x05 pointers, strings arrays task
