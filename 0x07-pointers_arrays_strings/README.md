@@ -1,1 +1,1 @@
-0x07-pointers_arrays_strings
+TASK 0X07-POINTERS_ARRAYS_STRINGS
